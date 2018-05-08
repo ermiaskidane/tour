@@ -5,9 +5,6 @@ body{
   /* font-size: 16px; */
   line-height: 1.7;
   color: $color-grey-dark;
-
-
-
 }
 
 .heading-primary{
@@ -87,7 +84,6 @@ body{
 
 .paragraph{
   font-size: $default-font-size;
-  // line-height: 1.9;
 
   &:not(:last-child){
     margin-bottom: 3rem;
