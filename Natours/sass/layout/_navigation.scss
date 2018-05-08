@@ -61,7 +61,7 @@
      left: 0;
      z-index: 1500;
      display: block;
-     left: -100%;
+     left: -50%;
 
      opacity: 0;
      width: 0;
@@ -71,10 +71,11 @@
   &__list{
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 100%;
     transform: translate(-50%, -50%);
     list-style: none;
     text-align: center;
+    width: 100%;
 
   }
 
