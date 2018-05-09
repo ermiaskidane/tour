@@ -43,7 +43,6 @@
 .section-stories{
   position: relative;
   padding: 15rem 0;
-  // background-color: rgba($color-black, .2) ;
 
   @include respond(tab-port){
     padding: 10rem 0;
@@ -86,8 +85,6 @@
                         url(../img/nat-10.jpg);
                         background-size: cover;
   }
-
-  // height: 50rem;
 
   &__form{
     width: 50%;
